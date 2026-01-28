@@ -45,26 +45,33 @@ This project is a complete data analysis and visualization application built usi
 
 ## 📂 Project Structure
 Week-4/
+
 ├── main.py
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── data/
+
 │   └── sales_data.csv
+
 ├── visualizations/
+
 │   ├── sales_by_product.png
+
 │   └── sales_trend.png
 
 ---
 
 ## 📊 Data Analysis & Visualizations
-## Analysis Performed
+Analysis Performed
 - Total sales calculation
 - Identification of best-selling product
 - Highest and lowest sales values
 - Sales trend analysis over time
 
-### Visualizations Created
-
+Visualizations Created
 - Bar Chart – Total Sales by Product
 - Line Chart – Sales Trend Over Time
 
@@ -74,36 +81,26 @@ All generated charts are saved in the visualizations folder.
 
 ## 🧠 Key Concepts Used
 
-Data loading and cleaning
-
-Grouping and aggregation using pandas
-
-Data visualization using matplotlib
-
-Complete data analysis workflow
+- Data loading and cleaning
+- Grouping and aggregation using pandas
+- Data visualization using matplotlib
+- Complete data analysis workflow
 
 ---
 
 ## 🧪 Testing & Validation
 
-Verified correct loading of the dataset
-
-Checked for duplicate and missing values
-
-Validated calculated sales metrics
-
-Confirmed successful creation of visualization files
+- Verified correct loading of the dataset
+- Checked for duplicate and missing values
+- Validated calculated sales metrics
+- Confirmed successful creation of visualization files
 
 ---
 
 ## 📚 What I Learned
 
-How to perform a complete data analysis pipeline
-
-Working with real-world datasets
-
-Creating professional charts using matplotlib
-
-Extracting insights from sales data
-
-Organizing and documenting a Python project
+- How to perform a complete data analysis pipeline
+- Working with real-world datasets
+- Creating professional charts using matplotlib
+- Extracting insights from sales data
+- Organizing and documenting a Python project
