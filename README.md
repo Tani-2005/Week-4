@@ -47,19 +47,12 @@ This project is a complete data analysis and visualization application built usi
 Week-4/
 
 ├── main.py
-
 ├── README.md
-
 ├── requirements.txt
-
 ├── data/
-
 │   └── sales_data.csv
-
 ├── visualizations/
-
 │   ├── sales_by_product.png
-
 │   └── sales_trend.png
 
 ---
